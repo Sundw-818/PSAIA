@@ -1,6 +1,6 @@
 # Introduction
 
-This is a program to calcualte PSAIA of a protein.
+This is a program to calculate PSAIA of a protein.
 
 
 
